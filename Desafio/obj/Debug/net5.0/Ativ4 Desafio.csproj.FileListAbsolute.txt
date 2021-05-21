@@ -1,0 +1,16 @@
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\obj\Debug\net5.0\Ativ4 Desafio.csprojAssemblyReference.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\obj\Debug\net5.0\Ativ4 Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\obj\Debug\net5.0\Ativ4 Desafio.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\obj\Debug\net5.0\Ativ4 Desafio.AssemblyInfo.cs
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\obj\Debug\net5.0\Ativ4 Desafio.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\bin\Debug\net5.0\Ativ4 Desafio.exe
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\bin\Debug\net5.0\Ativ4 Desafio.deps.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\bin\Debug\net5.0\Ativ4 Desafio.runtimeconfig.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\bin\Debug\net5.0\Ativ4 Desafio.runtimeconfig.dev.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\bin\Debug\net5.0\Ativ4 Desafio.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\bin\Debug\net5.0\ref\Ativ4 Desafio.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\bin\Debug\net5.0\Ativ4 Desafio.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\obj\Debug\net5.0\Ativ4 Desafio.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\obj\Debug\net5.0\ref\Ativ4 Desafio.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\obj\Debug\net5.0\Ativ4 Desafio.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\Ativ4 Desafio\obj\Debug\net5.0\Ativ4 Desafio.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ativ4 Desafio/1.0.0": {
+        "runtime": {
+          "Ativ4 Desafio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ativ4 Desafio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
